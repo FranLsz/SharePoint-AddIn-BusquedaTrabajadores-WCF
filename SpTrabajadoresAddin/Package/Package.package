@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="81cb2d13-5f75-4010-a5a9-2db333e6d012" 
+        solutionId="81cb2d13-5f75-4010-a5a9-2db333e6d012" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="SpTrabajadoresAddin"
+        sharePointProductVersion="16.0">
+  <features>
+        <featureReference itemId="f35af175-a913-433f-8df0-01b93fe4f50b" />
+  </features>
+</package>
